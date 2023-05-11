@@ -51,17 +51,17 @@ hr {
     padding-right: 2%;
 }
 .textmodule {
-    font-size:125%;
+    font-size:127%;
 }
 
 .module img {
-    width: 50vh;
-    height: 23vh;
-    margin-right: 50px;   
+    height: 25%;
+    margin-right: 5%;   
 }
 
 .module-title {
     background-color: #f8f9fa;
+    margin-top: 0;
     padding: 2%;
     text-decoration:underline
 }
