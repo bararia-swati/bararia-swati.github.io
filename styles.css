@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background: url('banner.png') no-repeat center center;
+    background-size: cover;
+    color: white;
+    text-align: left;
+    padding-left: 1%;
+    margin-bottom: 3%;
+}
+
+hr.solid {
+    border-top: 3px solid #bbb;
+    padding: 1%;
+    margin-bottom: 4%;
+  }
+
+h1 {
+    padding: 1%;
+}
+
+.bodyDiv {
+    padding: 2%;
+}
+
+.header-content {
+    background-color: rgba(0,0,0,0.5);
+    padding: 20px;
+}
+
+.course-program {
+    font-style: italic;
+    font-size: 125%;
+    margin-bottom: 2%;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #f8f9fa;
+}
+
+.main {
+    padding: 20px;
+}
+
+.module {
+    display: flex;
+    margin-bottom: 70px;
+    padding-right: 2%;
+}
+.textmodule {
+    font-size:125%;
+}
+
+.module img {
+    width: 50vh;
+    height: 23vh;
+    margin-right: 50px;   
+}
+
+.module-title {
+    background-color: #f8f9fa;
+    padding: 2%;
+    text-decoration:underline
+}
